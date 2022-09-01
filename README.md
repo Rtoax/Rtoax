@@ -7,3 +7,10 @@
 - 🌱 I’m currently learning [Linux](https://github.com/torvalds/linux), [llvm](https://github.com/llvm/llvm-project), [autoFDO](https://github.com/google/autofdo), [BOLT](https://github.com/facebookincubator/BOLT).
 - 💞️ I’m looking to collaborate on [elftools](https://github.com/Rtoax/elftools), [libcareplus](https://github.com/Rtoax/libcareplus), [test-linux](https://github.com/Rtoax/test-linux) and [more](https://github.com/Rtoax).
 - 📫 How to reach me [GitHub](https://github.com/Rtoax), [CSDN](https://rtoax.blog.csdn.net/), [Gitee](https://gitee.com/rtoax).
+
+
+![GitHub metrics](https://metrics.lecoq.io/Rtoax)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rtoax)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rtoax)  
