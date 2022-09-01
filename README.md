@@ -9,8 +9,6 @@
 - 📫 How to reach me [GitHub](https://github.com/Rtoax), [CSDN](https://rtoax.blog.csdn.net/), [Gitee](https://gitee.com/rtoax).
 
 
-![GitHub metrics](https://metrics.lecoq.io/Rtoax)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rtoax)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rtoax)  
