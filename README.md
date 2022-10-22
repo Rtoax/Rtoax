@@ -1,6 +1,6 @@
 [Rong Tao](https://github.com/Rtoax)
 
-- 👋 Hi, I’m [@rtoax](https://github.com/Rtoax), you can see me in [@linux-visor](https://github.com/linux-visor) too.
+- 👋 Hi, I’m [@rtoax](https://github.com/Rtoax).
 - 👀 I’m interested in
   * [linux](https://github.com/torvalds/linux), [llvm](https://github.com/llvm/llvm-project), [iovisor](https://github.com/iovisor), 
   * [coreos](https://github.com/coreos), [rhinstaller](https://github.com/rhinstaller), [rpm-software-management](https://github.com/rpm-software-management).
