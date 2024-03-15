@@ -1,5 +1,7 @@
 [Rong Tao](https://github.com/Rtoax)
 
+RTOAX means `R`elax `t`o `A`live `E`xtend (`放松以延长生命`).
+
 - 👋 Hi, I’m [@rtoax](https://github.com/Rtoax).
 - 👀 I’m interested in
   * [linux](https://github.com/torvalds/linux), [llvm](https://github.com/llvm/llvm-project), [iovisor](https://github.com/iovisor), 
