@@ -3,7 +3,7 @@
 <div align="center" markdown>
   
 ## R.T.O.A.X
-## Research Tribe On Advanced eXploration
+## **R**esearch Tribe On Advanced eXploration
 ## **高级探索研究部落**
 
 </div>
