@@ -1,14 +1,6 @@
 [Rong Tao](https://github.com/Rtoax) | [Gitee](https://gitee.com/rtoax) | [GitLab](https://gitlab.com/Rtoax)
 
 <div align="center" markdown>
-  
-## R.T.O.A.X
-#### Research Tribe On Advanced eXploration
-#### **高级探索研究部落**
-
-</div>
-
-<div align="center" markdown>
 
 ##### ～本来应该～从从容容～游刃有余～
 ##### ～现在是～匆匆忙忙～连滚带爬～
