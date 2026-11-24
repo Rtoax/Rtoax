@@ -1,4 +1,4 @@
-[GitHub](https://github.com/Rtoax) | [Gitee](https://gitee.com/rtoax) | [GitLab](https://gitlab.com/Rtoax) | [CSDN](https://rtoax.blog.csdn.net/) | [X](https://x.com/rtoaxfwi)
+[GitHub](https://github.com/Rtoax) | [Gitee](https://gitee.com/rtoax) | [GitLab](https://gitlab.com/Rtoax) | [CSDN](https://rtoax.blog.csdn.net/) | [YouTube](https://www.youtube.com/@rongtao3322) | [X](https://x.com/rtoaxfwi)
 
 <div align="center" markdown>
 
